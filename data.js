@@ -64,6 +64,25 @@ module.exports = [
       "Swift",
     ],
   },
+   {
+    name: "Abdulfatai Abdulwasiu Aremu",
+    description:
+      "I am a Certified Computer Scientist and Experienced Software Developer with a demonstrated history of working in the internet industry",
+    url: "https://portfolio-wastech.vercel.app/",
+    twitter: "@wastech_a",
+    tags: [
+      "Vue",
+      "Express js",
+      "Node js",
+      "Quasar Framework",
+      "Nuxt",
+      "JavaScript",
+      "Web Development",
+      "Programming",
+      "Computer Science",
+      "MongoDB",
+    ],
+  },
   {
     name: "Dan M. Kazimoto",
     description:
